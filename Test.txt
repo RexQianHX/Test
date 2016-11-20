@@ -1,7 +1,0 @@
-i am test txt
-i am test txt too
-i am test txt three
-i am test txt four
-i am master
-i am test
-i am add commit2
