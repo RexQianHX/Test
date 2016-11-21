@@ -2,4 +2,5 @@ i am test txt
 xxoo
 xxoo back
 xxoo get it
+NIHAO
 
