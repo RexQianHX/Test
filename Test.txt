@@ -2,6 +2,6 @@ i am test txt
 test git remote update
 test git fetch2
 test git remote update2
-test git rebase remote
+test git rebase remote2
 
 
