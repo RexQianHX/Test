@@ -1,6 +1,4 @@
 i am test txt
-xxoo
-xxoo back
-xxoo get it
 test git remote update
+
 
