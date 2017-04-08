@@ -4,3 +4,4 @@ diff test1
 test branch1
 test branch2
 test merge
+my name is newbranch
