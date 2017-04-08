@@ -3,3 +3,4 @@ i am merge test remote
 diff test1
 test branch1
 test branch2
+my name is newbranch
