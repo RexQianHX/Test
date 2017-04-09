@@ -6,3 +6,4 @@ test branch2
 my name is newbranch
 test svn1
 test checkout
+master test checkout
