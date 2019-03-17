@@ -7,3 +7,4 @@ my name is newbranch
 test svn1
 test checkout
 master test checkout
+Test fetch merge
