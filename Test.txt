@@ -5,3 +5,4 @@ local inventory changes Test.txt
 remote inventory changes Test.txt
 local update 1
 local update 2
+remote update 1
