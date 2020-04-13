@@ -3,3 +3,4 @@ i am feature
 i am feature back
 local inventory changes Test.txt
 remote inventory changes Test.txt
+local update 1
