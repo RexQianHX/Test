@@ -1,3 +1,5 @@
 i am feature
 
 remote inventory changes Test.txt
+
+remote update 1
